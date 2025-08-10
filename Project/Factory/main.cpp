@@ -1,7 +1,7 @@
 #include<iostream>
 #include<memory>
 #include"Factory.h"
-
+// hsddifnghaewoiegfaoiwb egfiouaweg
 int main() {
     FactoryManager& manager = FactoryManager::getInstance();
    
