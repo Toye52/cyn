@@ -4,6 +4,8 @@
 #include <iostream>
 #include <memory>
 
+ghefiunaghweifgikaulweh
+
 // 抽象产品类
 class Product
 {
@@ -88,5 +90,6 @@ private:
     ProductFactory productfactory_;
     StrategyFactory strategyfactory_;
 };
+
 
 #endif // FACTORY_H
